@@ -16,6 +16,7 @@
     "@chakra-ui/react": "^2.3.6",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@faker-js/faker": "^7.6.0",
     "@hookform/resolvers": "^2.9.10",
     "apexcharts": "^3.36.0",
     "framer-motion": "^7.6.2",
@@ -28,6 +29,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
+    "@types/faker": "^6.6.9",
     "@types/node": "^18.11.5",
     "@types/react": "^18.0.22",
     "eslint": "8.26.0",
